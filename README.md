@@ -12,7 +12,7 @@
 - 🔍 **Superstore Sales Dashboard** using SQL + Power BI
 - 📊 **Stock Performance Analysis** using SQL + Power Bi + Python 
 - 💊 **Drug Side Effects Analysis** using PostgreSQL + Excel + Python + Powerbi
-- 🌍 **Life Expectancy Analysis** using Python + SQL + Power BI
+- 🌍 **Life Expectancy Analysis** using Python + SQL + Power BI and Much More!!
 - 📈 Beginner-to-Intermediate level case studies with end-to-end documentation on GitHub
 
 ---
