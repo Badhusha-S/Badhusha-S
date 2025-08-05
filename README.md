@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhamed Badhusha
 
-🔧 Currently doing a **Data Analyst Internship at Unified Mentors**  
+🔧 Currently doing a **Data Analyst Internship at Unified Mentor**  
 📊 Passionate about turning raw data into actionable insights using **SQL**, **Python**, and **Power BI**  
 📁 Actively building a portfolio of real-world projects focused on **data storytelling**, **KPI-driven dashboards**, and **end-to-end analytics**
 
