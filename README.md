@@ -15,7 +15,7 @@ I'm actively seeking a **full-time Data Analyst role** where I can apply analyti
 | [Spotify Real-Time Dashboard](https://github.com/Badhusha-S/Spotify-Real-Time-Dashboard) | Python · Spotify API · PostgreSQL · Power BI | Full pipeline: live API extraction → PostgreSQL → interactive dashboard |
 | [Supply Chain Analytics](https://github.com/Badhusha-S/End-to-End-supply-chain-analysis) | PostgreSQL · SQL Views · Power BI · DAX | 8 SQL views, 5-page dashboard covering inventory, shipping, supplier & quality |
 | [Yelp Business Intelligence](https://github.com/Badhusha-S/Yelp-business-and-review-analysis) | Python · Snowflake · SQL · TextBlob | 5GB+ JSON ingestion, Python UDF sentiment classifier, 1M+ reviews |
-| [Drug Side Effects Analysis](https://github.com/Badhusha-S/Drug-side-effects-analysis) | PostgreSQL · CTEs · Window Functions | 50K+ records, co-prescription pattern detection using RANK() and LAG() |
+| [Drug Side Effects Analysis]([https://github.com/Badhusha-S/Drug-side-effects-analysis](https://github.com/Badhusha-S/Drug-Effectiveness-Safety-Public-Insight-Dashboard)) | PostgreSQL · CTEs · Window Functions | 50K+ records, co-prescription pattern detection using RANK() and LAG() |
 | [Stock Performance Analysis](https://github.com/Badhusha-S/Stock-Performance-Analysis) | PostgreSQL · Python · Power BI | KPI tracking, trend detection across multiple tickers |
 | [Life Expectancy Study](https://github.com/Badhusha-S/life_expectancy_analysis) | SQL · Power BI | 100K+ WHO records, global health trend analysis |
 
